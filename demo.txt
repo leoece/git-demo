@@ -6,3 +6,5 @@ This is the first line if the repo
 
 This is second line
 
+This 3rd line
+
